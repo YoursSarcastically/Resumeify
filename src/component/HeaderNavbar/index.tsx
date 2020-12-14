@@ -29,9 +29,7 @@ export default function HeaderNavbar() {
                         
 
                         <div className={styles.navItem}>
-                            <a href="https://github.com/sramezani/resume-builder" target="_blank" rel="noopener noreferrer">
-                                github
-                            </a>
+                            
                         </div>
                     </Nav>
                 </Navbar.Collapse>
